@@ -1,3 +1,13 @@
+# This Is A Friendly Fork
+
+Following discussion on [mypy-django#9](https://github.com/machinalis/mypy-django/issues/9),
+it was proposed that until maintainers return to help move the project forward, a friendly
+fork could be created to move forward the state of the project.
+
+Please join us on our Gitter room to chat about helping out:
+
+> https://gitter.im/mypy-django/Lobby
+
 # mypy-django
 ## Type stubs to use the mypy static type-checker with your Django projects
 
