@@ -1,3 +1,11 @@
+# Updated Status
+
+We're focussing our work over at:
+
+> https://github.com/TypedDjango/django-stubs#django-stubs
+
+Please join us there.
+
 # This Is A Friendly Fork
 
 Following discussion on [mypy-django#9](https://github.com/machinalis/mypy-django/issues/9),
